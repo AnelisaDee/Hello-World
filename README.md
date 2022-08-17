@@ -1,15 +1,12 @@
-Project Name
-Description the project.
+Hello Microverse
+This is my first project with microverse where I created 3 files; index.html, style.css, test.md and the last one needs to be ignored. The project is:
 
 Built With
-Major languages
-Frameworks
-Technologies used
-Live Demo (if available)
-Live Demo Link
+HTML
+CSS
 
 Getting Started
-This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
+Delete the testing section if the currect project doesn't require testing.
 
 To get a local copy up and running follow these simple example steps.
 
