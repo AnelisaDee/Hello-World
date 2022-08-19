@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Project Name\r Description the project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnelisaDee/Hello-World.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnelisaDee/Hello-World/issues"
+  },
+  "homepage": "https://github.com/AnelisaDee/Hello-World#readme",
+  "devDependencies": {
+    "hint": "^7.1.1"
+  }
+}
